@@ -11,9 +11,8 @@
 4. [Running Backtests](#running-backtests)  
 5. [Running the Real-Time Algorithm](#running-the-real-time-algorithm)  
 6. [Telegram Bot Integration](#telegram-bot-integration)  
-7. [Flowchart](#flowchart)  
-8. [Strategy Details](#strategy-details)  
-9. [References](#references)  
+7. [Strategy Details](#strategy-details)  
+8. [References](#references)  
 
 ---
 
