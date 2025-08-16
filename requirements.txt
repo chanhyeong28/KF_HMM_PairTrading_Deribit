@@ -1,0 +1,18 @@
+# Async WebSocket client
+websockets==15.0.1
+
+# Crypto for signing/auth
+cryptography==43.0.3
+
+# MySQL connector
+mysql-connector-python==8.4.0
+
+# Numerics & Data
+numpy==2.2.2
+pandas==2.2.3
+
+# ML (for sklearn.mixture.GaussianMixture)
+scikit-learn==1.6.1
+
+# Telegram bot API
+python-telegram-bot==22.3
