@@ -87,7 +87,7 @@ You will be prompted to input:
   - These should be decided via backtesting.
 
 **Example Run:**  
-![Pair Input Example](8B2A8E13-2047-43C1-BABE-DB2229253143.png)
+![Pair Input Example](pictures/init_example.png)
 
 ---
 
@@ -103,13 +103,8 @@ You will be prompted to input:
 3. Real-time trade notifications when orders are executed.
 
 **Example Screenshots:**  
-![Trade Notification](KakaoTalk_Image_2025-08-16-10-11-45.png)  
-![Telegram Commands](KakaoTalk_Image_2025-08-16-10-11-51.png)  
-
----
-
-## 📊 Flowchart
-![Flowchart](KF_HMM_PairTrading_Deribit_Flowchart.png)
+![Trade Notification](pictures/bot_1.png)  
+![Telegram Commands](pictures/bot_2.png)  
 
 ---
 
@@ -123,6 +118,5 @@ You will be prompted to input:
 
 ## 📚 References
 1. [Statistical Arbitrage 1: Pairs Trading with Robust Kalman Filter and Hidden Markov Model – Medium](https://medium.com/@kaichong.wang/statistical-arbitrage-1-pairs-trading-with-robust-kalman-filter-and-hidden-markov-model-62d0a1a0e4ae)  
-2. [GitHub – Pairs Trading with Robust Kalman Filter and Hidden Markov Model](https://github.com/EwanKW/Pairs-Trading-with-Robust-Kalman-Filter-and-Hidden-Markov-Model)
 
 ---
