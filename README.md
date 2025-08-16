@@ -110,12 +110,15 @@ You will be prompted to input:
 ## 📈 Strategy Details
 - **Kalman Filter** estimates dynamic hedge ratios between coin pairs.  
 - **HMM** classifies market regimes based on innovation volatility and return features.  
-- **DDIVF** (Directional Deviation Innovation Volatility Forecasting) adjusts position sizing.  
+- **DDIVF** (Data Driven Innovation Volatility Forecasting) for robust standard deviation.  
 - Strategy uses regime-specific thresholds to enter/exit trades.  
 
 ---
 
 ## 📚 References
-1. [Statistical Arbitrage 1: Pairs Trading with Robust Kalman Filter and Hidden Markov Model – Medium](https://medium.com/@kaichong.wang/statistical-arbitrage-1-pairs-trading-with-robust-kalman-filter-and-hidden-markov-model-62d0a1a0e4ae)  
+1. [Statistical Arbitrage 1: Pairs Trading with Robust Kalman Filter and Hidden Markov Model – Medium](https://medium.com/@kaichong.wang/statistical-arbitrage-1-pairs-trading-with-robust-kalman-filter-and-hidden-markov-model-62d0a1a0e4ae)
+2. <u>E. Johnson-Skinner, Y. Liang, N. Yu and A. Morariu, "A Novel Algorithmic Trading Strategy using Hidden Markov Model for Kalman Filtering Innovations," 2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC), Madrid, Spain, 2021, pp. 1766-1771, doi: 10.1109/COMPSAC51774.2021.00264. keywords: {Technological innovation;Filtering;Hidden Markov models;Switches;Predictive models;Prediction algorithms;Data models;Pairs Trading;Hidden Markov Models;Robust Kalman Filter;Innovation Volatility}</u>
+
+
 
 ---
