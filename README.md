@@ -69,6 +69,10 @@ This project implements a **statistical arbitrage** strategy that:
    - `KF_HMM_Backtesting.ipynb`  
    - Adjust signal thresholds based on backtest results.
 
+3. Paper:
+   - [Design and Performance Analysis of a Kalman-Filter-Based Strategy in Cryptocurrency Markets — Regime-Aware Pair Trading with HMM](assets/papers/Design%20and%20Performance%20Analysis%20of%20a%20Kalman-Filter-Based%20Strategy%20in%20Cryptocurrency%20Markets_%20Regime-Aware%20Pair%20Trading%20with%20HMM.pdf)
+
+
 ---
 
 ## ⚡ Running the Real-Time Algorithm
@@ -118,7 +122,5 @@ You will be prompted to input:
 ## 📚 References
 1. [Statistical Arbitrage 1: Pairs Trading with Robust Kalman Filter and Hidden Markov Model – Medium](https://medium.com/@kaichong.wang/statistical-arbitrage-1-pairs-trading-with-robust-kalman-filter-and-hidden-markov-model-62d0a1a0e4ae)
 2. <u>E. Johnson-Skinner, Y. Liang, N. Yu and A. Morariu, "A Novel Algorithmic Trading Strategy using Hidden Markov Model for Kalman Filtering Innovations," 2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC), Madrid, Spain, 2021, pp. 1766-1771, doi: 10.1109/COMPSAC51774.2021.00264. keywords: {Technological innovation;Filtering;Hidden Markov models;Switches;Predictive models;Prediction algorithms;Data models;Pairs Trading;Hidden Markov Models;Robust Kalman Filter;Innovation Volatility}</u>
-
-
 
 ---
